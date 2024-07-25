@@ -36,7 +36,3 @@ Access the application via `http://localhost:8000/docs`.
 
 ## Contributing
 Contributions are welcome! Please open issues or submit pull requests.
-
-## License
-This project is licensed under the MIT License.
-```
