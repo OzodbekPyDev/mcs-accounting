@@ -1,4 +1,3 @@
-```markdown
 # MCS Accounting
 
 ## Overview
