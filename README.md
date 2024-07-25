@@ -31,20 +31,8 @@ MCS Accounting is a robust accounting system built using modern Python web devel
    docker-compose up --build
    ```
 
-### Usage
-Access the application via `http://localhost:8000`.
-
-### API Overview
-- **/api/v1/users:** Manage users, authentication, and authorization.
-- **/api/v1/transactions:** Handle financial transactions and records.
-- **/api/v1/reports:** Generate accounting reports.
-
-### Development and Testing
-- **Linting and Formatting:** Uses Flake8 for linting. Run `flake8` to check code style.
-- **Testing:** To run tests, use the following command:
-  ```bash
-  pytest
-  ```
+### Docs of API routers
+Access the application via `http://localhost:8000/docs`.
 
 ## Contributing
 Contributions are welcome! Please open issues or submit pull requests.
@@ -52,5 +40,3 @@ Contributions are welcome! Please open issues or submit pull requests.
 ## License
 This project is licensed under the MIT License.
 ```
-
-To use this, create a `README.md` file in your project's root directory, paste the above content, save the file, and then commit and push it to your repository. This will create a comprehensive README for your project.
